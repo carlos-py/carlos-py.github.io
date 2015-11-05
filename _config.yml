@@ -8,9 +8,9 @@ url: "https://panossakkos.github.io"
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: /personal-jekyll-theme
+baseurl: /
 
-google-tracking-id: "UA-35880426-4"
+#google-tracking-id: "UA-35880426-4"
 
 # Forces https everywhere in your website, except when you serve it locally
 
@@ -20,9 +20,9 @@ force-https: True
 # HTML Head #
 #############
 
-author: "John Smith"
+author: "Carlos Vasquez"
 lang: "en"
-title: "{ John Smith }"
+title: "{ Carlos Vasquez }"
 favicon: "/img/favicon.ico"
 description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
